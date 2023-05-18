@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Nemika-WebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2058F934F9764DFF9FF360D86597F0C1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4CB2830C61154AA3B928E80C32562A22 }}
           package: .
